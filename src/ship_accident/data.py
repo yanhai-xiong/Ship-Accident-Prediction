@@ -27,6 +27,13 @@ def prepare_raw_frame(df: pd.DataFrame, cfg: dict[str, Any]) -> pd.DataFrame:
     if target not in out.columns:
         raise KeyError(f"Target column {target!r} not in data columns: {list(out.columns)}")
 
+    # Treat blank / whitespace-only targets as missing so dropna removes them
+    if target in out.columns:
+        s = out[target]
+        if s.dtype == object or pd.api.types.is_string_dtype(s):
+            blank = s.astype(str).str.strip().isin(("", "nan", "None", "<NA>"))
+            out.loc[blank, target] = pd.NA
+
     drop_cols = list(cfg.get("drop_always", [])) + list(cfg.get("drop_for_target", []))
     drop_cols = [c for c in drop_cols if c in out.columns]
     out = out.drop(columns=drop_cols, errors="ignore")
@@ -38,6 +45,13 @@ def prepare_raw_frame(df: pd.DataFrame, cfg: dict[str, Any]) -> pd.DataFrame:
 
     if cfg.get("drop_na", True):
         out = out.dropna(axis=0)
+
+    min_cc = int(cfg.get("min_class_counts", 0) or 0)
+    if min_cc > 0:
+        vc = out[target].astype(str).value_counts()
+        keep_labels = vc[vc >= min_cc].index
+        out = out[out[target].astype(str).isin(keep_labels)]
+
     return out
 
 

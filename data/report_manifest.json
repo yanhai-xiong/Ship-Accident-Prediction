@@ -1,0 +1,5255 @@
+[
+  {
+    "file": "100.pdf",
+    "ok": true,
+    "accident_type": "搁浅",
+    "chars": 3689
+  },
+  {
+    "file": "101.pdf",
+    "ok": true,
+    "accident_type": "搁浅",
+    "chars": 3560
+  },
+  {
+    "file": "102.pdf",
+    "ok": true,
+    "accident_type": "搁浅",
+    "chars": 6612
+  },
+  {
+    "file": "103.pdf",
+    "ok": true,
+    "accident_type": "搁浅",
+    "chars": 7068
+  },
+  {
+    "file": "104.pdf",
+    "ok": true,
+    "accident_type": "搁浅",
+    "chars": 5751
+  },
+  {
+    "file": "105.pdf",
+    "ok": true,
+    "accident_type": "搁浅",
+    "chars": 9998
+  },
+  {
+    "file": "106.doc",
+    "ok": true,
+    "accident_type": "搁浅",
+    "chars": 2861
+  },
+  {
+    "file": "107.doc",
+    "ok": true,
+    "accident_type": "搁浅",
+    "chars": 5597
+  },
+  {
+    "file": "108.doc",
+    "ok": true,
+    "accident_type": "搁浅",
+    "chars": 3851
+  },
+  {
+    "file": "109.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2000000
+  },
+  {
+    "file": "11.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4255
+  },
+  {
+    "file": "110.pdf",
+    "ok": true,
+    "accident_type": "搁浅",
+    "chars": 16516
+  },
+  {
+    "file": "111.pdf",
+    "ok": true,
+    "accident_type": "搁浅",
+    "chars": 4343
+  },
+  {
+    "file": "112.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5196
+  },
+  {
+    "file": "114.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 8814
+  },
+  {
+    "file": "115.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 6959
+  },
+  {
+    "file": "116.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 8147
+  },
+  {
+    "file": "117.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 7175
+  },
+  {
+    "file": "118.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 19817
+  },
+  {
+    "file": "119.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 6401
+  },
+  {
+    "file": "120.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 6041
+  },
+  {
+    "file": "121.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 10385
+  },
+  {
+    "file": "122.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 4789
+  },
+  {
+    "file": "123.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 4701
+  },
+  {
+    "file": "124.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 4046
+  },
+  {
+    "file": "125.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 5095
+  },
+  {
+    "file": "126.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 8493
+  },
+  {
+    "file": "127.doc",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 3313
+  },
+  {
+    "file": "128.wps",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 7900
+  },
+  {
+    "file": "129.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4325
+  },
+  {
+    "file": "13.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4683
+  },
+  {
+    "file": "130.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9730
+  },
+  {
+    "file": "131.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 13988
+  },
+  {
+    "file": "132.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7948
+  },
+  {
+    "file": "133.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6290
+  },
+  {
+    "file": "134.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 17897
+  },
+  {
+    "file": "135.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 18679
+  },
+  {
+    "file": "136.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9489
+  },
+  {
+    "file": "137.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 20781
+  },
+  {
+    "file": "138.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6709
+  },
+  {
+    "file": "139.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5758
+  },
+  {
+    "file": "14.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4830
+  },
+  {
+    "file": "140.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4255
+  },
+  {
+    "file": "141.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 15641
+  },
+  {
+    "file": "142.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 18113
+  },
+  {
+    "file": "143.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 20321
+  },
+  {
+    "file": "144.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 16185
+  },
+  {
+    "file": "145.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4697
+  },
+  {
+    "file": "146.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7742
+  },
+  {
+    "file": "147.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 10622
+  },
+  {
+    "file": "148.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 17777
+  },
+  {
+    "file": "149.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 11080
+  },
+  {
+    "file": "15.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5332
+  },
+  {
+    "file": "150.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 3734
+  },
+  {
+    "file": "151.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6675
+  },
+  {
+    "file": "152.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6694
+  },
+  {
+    "file": "153.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 8063
+  },
+  {
+    "file": "154.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6571
+  },
+  {
+    "file": "155.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8709
+  },
+  {
+    "file": "156.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7491
+  },
+  {
+    "file": "157.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 12144
+  },
+  {
+    "file": "158.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 15554
+  },
+  {
+    "file": "159.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 13543
+  },
+  {
+    "file": "16.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4331
+  },
+  {
+    "file": "160.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4683
+  },
+  {
+    "file": "161.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 18421
+  },
+  {
+    "file": "162.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 9189
+  },
+  {
+    "file": "163.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4023
+  },
+  {
+    "file": "164.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4830
+  },
+  {
+    "file": "165.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5332
+  },
+  {
+    "file": "166.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 2844
+  },
+  {
+    "file": "167.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7615
+  },
+  {
+    "file": "168.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4251
+  },
+  {
+    "file": "169.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5240
+  },
+  {
+    "file": "17.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5062
+  },
+  {
+    "file": "170.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4092
+  },
+  {
+    "file": "171.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7270
+  },
+  {
+    "file": "172.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5064
+  },
+  {
+    "file": "173.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 18774
+  },
+  {
+    "file": "174.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5318
+  },
+  {
+    "file": "175.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5721
+  },
+  {
+    "file": "176.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4331
+  },
+  {
+    "file": "177.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 11129
+  },
+  {
+    "file": "178.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6804
+  },
+  {
+    "file": "179.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9977
+  },
+  {
+    "file": "18.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6804
+  },
+  {
+    "file": "180.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 12773
+  },
+  {
+    "file": "181.pdf",
+    "ok": true,
+    "accident_type": "爆炸",
+    "chars": 2620
+  },
+  {
+    "file": "182.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 13652
+  },
+  {
+    "file": "183.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 4012
+  },
+  {
+    "file": "184.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 4762
+  },
+  {
+    "file": "185.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 5434
+  },
+  {
+    "file": "186.pdf",
+    "ok": true,
+    "accident_type": "爆炸",
+    "chars": 4986
+  },
+  {
+    "file": "187.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6986
+  },
+  {
+    "file": "188.pdf",
+    "ok": true,
+    "accident_type": "爆炸",
+    "chars": 11825
+  },
+  {
+    "file": "189.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 8683
+  },
+  {
+    "file": "19.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 8814
+  },
+  {
+    "file": "190.pdf",
+    "ok": true,
+    "accident_type": "爆炸",
+    "chars": 3067
+  },
+  {
+    "file": "191.pdf",
+    "ok": true,
+    "accident_type": "爆炸",
+    "chars": 8036
+  },
+  {
+    "file": "192.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 7639
+  },
+  {
+    "file": "193.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 4826
+  },
+  {
+    "file": "194.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 5474
+  },
+  {
+    "file": "195.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 6128
+  },
+  {
+    "file": "196.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 4626
+  },
+  {
+    "file": "197.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 6506
+  },
+  {
+    "file": "199.pdf",
+    "ok": true,
+    "accident_type": "爆炸",
+    "chars": 4633
+  },
+  {
+    "file": "2.pdf",
+    "ok": true,
+    "accident_type": "爆炸",
+    "chars": 7292
+  },
+  {
+    "file": "20.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 6959
+  },
+  {
+    "file": "200.doc",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 7813
+  },
+  {
+    "file": "201.pdf",
+    "ok": true,
+    "accident_type": "爆炸",
+    "chars": 44117
+  },
+  {
+    "file": "202.pdf",
+    "ok": true,
+    "accident_type": "爆炸",
+    "chars": 12650
+  },
+  {
+    "file": "203.doc",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 3211
+  },
+  {
+    "file": "204.doc",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 5166
+  },
+  {
+    "file": "205.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 4582
+  },
+  {
+    "file": "206.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 7600
+  },
+  {
+    "file": "207.docx",
+    "ok": true,
+    "accident_type": "爆炸",
+    "chars": 5020
+  },
+  {
+    "file": "208.pdf",
+    "ok": true,
+    "accident_type": "爆炸",
+    "chars": 7927
+  },
+  {
+    "file": "209.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 12326
+  },
+  {
+    "file": "21.doc",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 8713
+  },
+  {
+    "file": "210.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 8159
+  },
+  {
+    "file": "211.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 6278
+  },
+  {
+    "file": "212.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 7328
+  },
+  {
+    "file": "213.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 6876
+  },
+  {
+    "file": "214.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 9363
+  },
+  {
+    "file": "215.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5390
+  },
+  {
+    "file": "216.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7462
+  },
+  {
+    "file": "217.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 11221
+  },
+  {
+    "file": "218.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 5197
+  },
+  {
+    "file": "219.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 4954
+  },
+  {
+    "file": "22.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 4189
+  },
+  {
+    "file": "220.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 20427
+  },
+  {
+    "file": "221.doc",
+    "ok": true,
+    "accident_type": "触损",
+    "chars": 4682
+  },
+  {
+    "file": "222.pdf",
+    "ok": true,
+    "accident_type": "爆炸",
+    "chars": 24072
+  },
+  {
+    "file": "223.pdf",
+    "ok": true,
+    "accident_type": "爆炸",
+    "chars": 9565
+  },
+  {
+    "file": "224.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 30655
+  },
+  {
+    "file": "225.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 4610
+  },
+  {
+    "file": "226.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 9348
+  },
+  {
+    "file": "227.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 15907
+  },
+  {
+    "file": "228.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 3220
+  },
+  {
+    "file": "229.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 12042
+  },
+  {
+    "file": "23.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 4723
+  },
+  {
+    "file": "230.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 3752
+  },
+  {
+    "file": "231.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10156
+  },
+  {
+    "file": "232.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 13488
+  },
+  {
+    "file": "233.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5062
+  },
+  {
+    "file": "234.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 19353
+  },
+  {
+    "file": "235.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 8323
+  },
+  {
+    "file": "236.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 10768
+  },
+  {
+    "file": "237.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 5972
+  },
+  {
+    "file": "238.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 8267
+  },
+  {
+    "file": "239.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 4966
+  },
+  {
+    "file": "240.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 10431
+  },
+  {
+    "file": "241.doc",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 13852
+  },
+  {
+    "file": "242.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 8218
+  },
+  {
+    "file": "243.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5892
+  },
+  {
+    "file": "244.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 19070
+  },
+  {
+    "file": "245.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 14024
+  },
+  {
+    "file": "246.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7908
+  },
+  {
+    "file": "247.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5916
+  },
+  {
+    "file": "248.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 9244
+  },
+  {
+    "file": "249.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4857
+  },
+  {
+    "file": "25.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 8493
+  },
+  {
+    "file": "250.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5376
+  },
+  {
+    "file": "251.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2601
+  },
+  {
+    "file": "252.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 6491
+  },
+  {
+    "file": "253.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 9179
+  },
+  {
+    "file": "254.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6646
+  },
+  {
+    "file": "255.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6946
+  },
+  {
+    "file": "256.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5716
+  },
+  {
+    "file": "257.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 6574
+  },
+  {
+    "file": "258.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 3571
+  },
+  {
+    "file": "259.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 5633
+  },
+  {
+    "file": "26.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 4954
+  },
+  {
+    "file": "260.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4715
+  },
+  {
+    "file": "261.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4715
+  },
+  {
+    "file": "262.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2595
+  },
+  {
+    "file": "263.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 2566
+  },
+  {
+    "file": "264.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2130
+  },
+  {
+    "file": "265.pdf",
+    "ok": true,
+    "accident_type": "搁浅",
+    "chars": 7068
+  },
+  {
+    "file": "266.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4102
+  },
+  {
+    "file": "267.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2000000
+  },
+  {
+    "file": "268.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 3709
+  },
+  {
+    "file": "269.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7962
+  },
+  {
+    "file": "27.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 12146
+  },
+  {
+    "file": "270.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 9093
+  },
+  {
+    "file": "271.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 3835
+  },
+  {
+    "file": "272.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 8529
+  },
+  {
+    "file": "273.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 9245
+  },
+  {
+    "file": "274.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6928
+  },
+  {
+    "file": "275.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7405
+  },
+  {
+    "file": "276.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 8551
+  },
+  {
+    "file": "277.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 8515
+  },
+  {
+    "file": "278.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7904
+  },
+  {
+    "file": "279.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 14474
+  },
+  {
+    "file": "28.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 9798
+  },
+  {
+    "file": "280.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 9796
+  },
+  {
+    "file": "281.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 11834
+  },
+  {
+    "file": "282.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 14704
+  },
+  {
+    "file": "283.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4898
+  },
+  {
+    "file": "284.docx",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 3786
+  },
+  {
+    "file": "285.docx",
+    "ok": true,
+    "accident_type": "走锚",
+    "chars": 4596
+  },
+  {
+    "file": "286.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2000000
+  },
+  {
+    "file": "287.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2000000
+  },
+  {
+    "file": "288.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6584
+  },
+  {
+    "file": "289.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 6285
+  },
+  {
+    "file": "29.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6806
+  },
+  {
+    "file": "290.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5313
+  },
+  {
+    "file": "291.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4092
+  },
+  {
+    "file": "292.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7065
+  },
+  {
+    "file": "293.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 3869
+  },
+  {
+    "file": "294.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2704
+  },
+  {
+    "file": "295.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4478
+  },
+  {
+    "file": "296.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6439
+  },
+  {
+    "file": "297.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 8818
+  },
+  {
+    "file": "298.pdf",
+    "ok": true,
+    "accident_type": "走锚",
+    "chars": 4768
+  },
+  {
+    "file": "299.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 3203
+  },
+  {
+    "file": "30.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 11629
+  },
+  {
+    "file": "300.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2279
+  },
+  {
+    "file": "301.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2403
+  },
+  {
+    "file": "302.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4031
+  },
+  {
+    "file": "303.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 10035
+  },
+  {
+    "file": "304.pdf",
+    "ok": true,
+    "accident_type": "风灾",
+    "chars": 10431
+  },
+  {
+    "file": "305.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 1880
+  },
+  {
+    "file": "306.doc",
+    "ok": true,
+    "accident_type": "触损",
+    "chars": 2766
+  },
+  {
+    "file": "307.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4464
+  },
+  {
+    "file": "308.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4953
+  },
+  {
+    "file": "309.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5139
+  },
+  {
+    "file": "31.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 8878
+  },
+  {
+    "file": "310.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6832
+  },
+  {
+    "file": "311.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4175
+  },
+  {
+    "file": "312.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5229
+  },
+  {
+    "file": "313.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5055
+  },
+  {
+    "file": "314.docx",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2372
+  },
+  {
+    "file": "315.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6437
+  },
+  {
+    "file": "316.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 1773
+  },
+  {
+    "file": "317.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 3244
+  },
+  {
+    "file": "318.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 12912
+  },
+  {
+    "file": "319.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5691
+  },
+  {
+    "file": "32.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7088
+  },
+  {
+    "file": "320.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6859
+  },
+  {
+    "file": "321.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4254
+  },
+  {
+    "file": "322.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6696
+  },
+  {
+    "file": "323.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 8104
+  },
+  {
+    "file": "324.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 14378
+  },
+  {
+    "file": "325.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4046
+  },
+  {
+    "file": "326.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 6749
+  },
+  {
+    "file": "327.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5903
+  },
+  {
+    "file": "328.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5288
+  },
+  {
+    "file": "329.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6737
+  },
+  {
+    "file": "33.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 10729
+  },
+  {
+    "file": "330.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 13494
+  },
+  {
+    "file": "331.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5189
+  },
+  {
+    "file": "332.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4077
+  },
+  {
+    "file": "333.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 7037
+  },
+  {
+    "file": "334.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7367
+  },
+  {
+    "file": "335.pdf",
+    "ok": true,
+    "accident_type": "爆炸",
+    "chars": 4210
+  },
+  {
+    "file": "336.pdf",
+    "ok": true,
+    "accident_type": "倾覆",
+    "chars": 7563
+  },
+  {
+    "file": "337.docx",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4878
+  },
+  {
+    "file": "338.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 8923
+  },
+  {
+    "file": "339.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 12773
+  },
+  {
+    "file": "34.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 10475
+  },
+  {
+    "file": "340.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 1672
+  },
+  {
+    "file": "341.pdf",
+    "ok": true,
+    "accident_type": "走锚",
+    "chars": 6565
+  },
+  {
+    "file": "342.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6666
+  },
+  {
+    "file": "343.docx",
+    "ok": true,
+    "accident_type": null,
+    "chars": 10178
+  },
+  {
+    "file": "344.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2242
+  },
+  {
+    "file": "345.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 15200
+  },
+  {
+    "file": "346.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7983
+  },
+  {
+    "file": "347.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 13966
+  },
+  {
+    "file": "348.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4851
+  },
+  {
+    "file": "349.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10420
+  },
+  {
+    "file": "35.pdf",
+    "ok": true,
+    "accident_type": "爆炸",
+    "chars": 7569
+  },
+  {
+    "file": "350.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5934
+  },
+  {
+    "file": "351.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8608
+  },
+  {
+    "file": "352.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7267
+  },
+  {
+    "file": "353.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5706
+  },
+  {
+    "file": "354.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9102
+  },
+  {
+    "file": "355.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12177
+  },
+  {
+    "file": "356.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9913
+  },
+  {
+    "file": "357.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8682
+  },
+  {
+    "file": "358.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8127
+  },
+  {
+    "file": "359.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11892
+  },
+  {
+    "file": "36.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 4009
+  },
+  {
+    "file": "360.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 22441
+  },
+  {
+    "file": "361.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8886
+  },
+  {
+    "file": "362.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11773
+  },
+  {
+    "file": "363.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14076
+  },
+  {
+    "file": "364.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8501
+  },
+  {
+    "file": "365.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5541
+  },
+  {
+    "file": "366.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12783
+  },
+  {
+    "file": "367.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10911
+  },
+  {
+    "file": "368.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12257
+  },
+  {
+    "file": "369.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9377
+  },
+  {
+    "file": "37.pdf",
+    "ok": false,
+    "error": "empty_text"
+  },
+  {
+    "file": "370.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7054
+  },
+  {
+    "file": "371.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9749
+  },
+  {
+    "file": "372.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11978
+  },
+  {
+    "file": "373.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8190
+  },
+  {
+    "file": "374.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11175
+  },
+  {
+    "file": "375.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6577
+  },
+  {
+    "file": "376.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10333
+  },
+  {
+    "file": "377.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11368
+  },
+  {
+    "file": "378.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7227
+  },
+  {
+    "file": "379.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6057
+  },
+  {
+    "file": "38.wps",
+    "ok": true,
+    "accident_type": null,
+    "chars": 9128
+  },
+  {
+    "file": "380.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14027
+  },
+  {
+    "file": "381.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8353
+  },
+  {
+    "file": "382.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8218
+  },
+  {
+    "file": "383.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6790
+  },
+  {
+    "file": "384.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6302
+  },
+  {
+    "file": "385.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5510
+  },
+  {
+    "file": "386.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7382
+  },
+  {
+    "file": "387.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11571
+  },
+  {
+    "file": "388.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9663
+  },
+  {
+    "file": "389.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9875
+  },
+  {
+    "file": "39.wps",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4247
+  },
+  {
+    "file": "390.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12347
+  },
+  {
+    "file": "391.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12139
+  },
+  {
+    "file": "392.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6070
+  },
+  {
+    "file": "393.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10219
+  },
+  {
+    "file": "394.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 13620
+  },
+  {
+    "file": "395.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7828
+  },
+  {
+    "file": "396.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8756
+  },
+  {
+    "file": "397.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11403
+  },
+  {
+    "file": "398.docx",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14028
+  },
+  {
+    "file": "399.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2000000
+  },
+  {
+    "file": "40.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 5069
+  },
+  {
+    "file": "400.docx",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7714
+  },
+  {
+    "file": "401.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5278
+  },
+  {
+    "file": "402.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12266
+  },
+  {
+    "file": "403.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 16915
+  },
+  {
+    "file": "404.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 21729
+  },
+  {
+    "file": "405.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14872
+  },
+  {
+    "file": "406.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6229
+  },
+  {
+    "file": "407.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4693
+  },
+  {
+    "file": "408.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5412
+  },
+  {
+    "file": "409.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4230
+  },
+  {
+    "file": "41.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 8909
+  },
+  {
+    "file": "410.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5413
+  },
+  {
+    "file": "411.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6289
+  },
+  {
+    "file": "412.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6089
+  },
+  {
+    "file": "413.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6638
+  },
+  {
+    "file": "414.docx",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10295
+  },
+  {
+    "file": "415.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6381
+  },
+  {
+    "file": "416.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11489
+  },
+  {
+    "file": "417.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10375
+  },
+  {
+    "file": "418.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 16521
+  },
+  {
+    "file": "419.docx",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6286
+  },
+  {
+    "file": "42.doc",
+    "ok": true,
+    "accident_type": "溢油",
+    "chars": 6445
+  },
+  {
+    "file": "420.docx",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8601
+  },
+  {
+    "file": "421.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7398
+  },
+  {
+    "file": "422.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4706
+  },
+  {
+    "file": "423.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9364
+  },
+  {
+    "file": "424.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6606
+  },
+  {
+    "file": "425.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11355
+  },
+  {
+    "file": "426.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8383
+  },
+  {
+    "file": "427.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5822
+  },
+  {
+    "file": "428.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5753
+  },
+  {
+    "file": "429.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5571
+  },
+  {
+    "file": "43.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4521
+  },
+  {
+    "file": "430.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7157
+  },
+  {
+    "file": "431.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14670
+  },
+  {
+    "file": "432.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4961
+  },
+  {
+    "file": "433.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11778
+  },
+  {
+    "file": "434.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9328
+  },
+  {
+    "file": "435.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14416
+  },
+  {
+    "file": "436.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12077
+  },
+  {
+    "file": "437.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5435
+  },
+  {
+    "file": "438.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10711
+  },
+  {
+    "file": "439.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5538
+  },
+  {
+    "file": "44.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 8796
+  },
+  {
+    "file": "440.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 20303
+  },
+  {
+    "file": "441.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 16707
+  },
+  {
+    "file": "442.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11094
+  },
+  {
+    "file": "443.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 34349
+  },
+  {
+    "file": "444.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 18145
+  },
+  {
+    "file": "445.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8682
+  },
+  {
+    "file": "446.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12103
+  },
+  {
+    "file": "447.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 19417
+  },
+  {
+    "file": "448.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 15698
+  },
+  {
+    "file": "449.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12816
+  },
+  {
+    "file": "45.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 12233
+  },
+  {
+    "file": "450.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12185
+  },
+  {
+    "file": "451.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8396
+  },
+  {
+    "file": "452.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7553
+  },
+  {
+    "file": "453.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9978
+  },
+  {
+    "file": "454.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12034
+  },
+  {
+    "file": "455.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11536
+  },
+  {
+    "file": "456.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11536
+  },
+  {
+    "file": "457.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10566
+  },
+  {
+    "file": "458.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8805
+  },
+  {
+    "file": "459.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11690
+  },
+  {
+    "file": "46.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 8951
+  },
+  {
+    "file": "460.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14872
+  },
+  {
+    "file": "461.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14731
+  },
+  {
+    "file": "462.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10836
+  },
+  {
+    "file": "463.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11529
+  },
+  {
+    "file": "464.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11932
+  },
+  {
+    "file": "465.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11697
+  },
+  {
+    "file": "466.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7342
+  },
+  {
+    "file": "467.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7852
+  },
+  {
+    "file": "468.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6976
+  },
+  {
+    "file": "469.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5764
+  },
+  {
+    "file": "47.pdf",
+    "ok": false,
+    "error": "empty_text"
+  },
+  {
+    "file": "470.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10774
+  },
+  {
+    "file": "471.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7298
+  },
+  {
+    "file": "472.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7702
+  },
+  {
+    "file": "473.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11851
+  },
+  {
+    "file": "474.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5016
+  },
+  {
+    "file": "475.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12627
+  },
+  {
+    "file": "476.docx",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6787
+  },
+  {
+    "file": "477.docx",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9604
+  },
+  {
+    "file": "478.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 2057
+  },
+  {
+    "file": "479.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7311
+  },
+  {
+    "file": "48.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 9284
+  },
+  {
+    "file": "480.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4603
+  },
+  {
+    "file": "481.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7795
+  },
+  {
+    "file": "482.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4499
+  },
+  {
+    "file": "483.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4953
+  },
+  {
+    "file": "484.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9659
+  },
+  {
+    "file": "485.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14640
+  },
+  {
+    "file": "486.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 13599
+  },
+  {
+    "file": "487.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 3485
+  },
+  {
+    "file": "488.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 16429
+  },
+  {
+    "file": "489.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 15873
+  },
+  {
+    "file": "49.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 13035
+  },
+  {
+    "file": "490.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4066
+  },
+  {
+    "file": "491.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 17699
+  },
+  {
+    "file": "492.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12724
+  },
+  {
+    "file": "493.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 26645
+  },
+  {
+    "file": "494.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 16988
+  },
+  {
+    "file": "496.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6246
+  },
+  {
+    "file": "497.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6122
+  },
+  {
+    "file": "498.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9776
+  },
+  {
+    "file": "499.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9616
+  },
+  {
+    "file": "50.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 11398
+  },
+  {
+    "file": "500.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 15288
+  },
+  {
+    "file": "501.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 17996
+  },
+  {
+    "file": "502.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10604
+  },
+  {
+    "file": "503.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8058
+  },
+  {
+    "file": "504.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4495
+  },
+  {
+    "file": "505.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11448
+  },
+  {
+    "file": "506.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 19958
+  },
+  {
+    "file": "507.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2000000
+  },
+  {
+    "file": "508.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9514
+  },
+  {
+    "file": "509.pdf",
+    "ok": false,
+    "error": "empty_text"
+  },
+  {
+    "file": "51.docx",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6095
+  },
+  {
+    "file": "510.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 8755
+  },
+  {
+    "file": "511.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 15224
+  },
+  {
+    "file": "512.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5134
+  },
+  {
+    "file": "513.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11840
+  },
+  {
+    "file": "514.pdf",
+    "ok": false,
+    "error": "empty_text"
+  },
+  {
+    "file": "515.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11003
+  },
+  {
+    "file": "516.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10911
+  },
+  {
+    "file": "517.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10432
+  },
+  {
+    "file": "518.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 26884
+  },
+  {
+    "file": "519.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9098
+  },
+  {
+    "file": "52.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7743
+  },
+  {
+    "file": "520.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14177
+  },
+  {
+    "file": "521.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9481
+  },
+  {
+    "file": "522.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12300
+  },
+  {
+    "file": "523.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 23164
+  },
+  {
+    "file": "524.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10853
+  },
+  {
+    "file": "525.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 20495
+  },
+  {
+    "file": "526.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 21446
+  },
+  {
+    "file": "527.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 23819
+  },
+  {
+    "file": "528.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12064
+  },
+  {
+    "file": "529.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 15958
+  },
+  {
+    "file": "53.docx",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5918
+  },
+  {
+    "file": "530.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10416
+  },
+  {
+    "file": "531.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 22258
+  },
+  {
+    "file": "532.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9184
+  },
+  {
+    "file": "533.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 22056
+  },
+  {
+    "file": "534.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9853
+  },
+  {
+    "file": "535.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8395
+  },
+  {
+    "file": "536.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7342
+  },
+  {
+    "file": "537.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 30846
+  },
+  {
+    "file": "538.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 15780
+  },
+  {
+    "file": "539.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 20629
+  },
+  {
+    "file": "54.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 13133
+  },
+  {
+    "file": "540.pdf",
+    "ok": false,
+    "error": "empty_text"
+  },
+  {
+    "file": "541.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11427
+  },
+  {
+    "file": "542.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14061
+  },
+  {
+    "file": "543.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 15303
+  },
+  {
+    "file": "544.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12249
+  },
+  {
+    "file": "545.pdf",
+    "ok": true,
+    "accident_type": "浪损",
+    "chars": 14598
+  },
+  {
+    "file": "546.pdf",
+    "ok": false,
+    "error": "empty_text"
+  },
+  {
+    "file": "547.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12256
+  },
+  {
+    "file": "548.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 13031
+  },
+  {
+    "file": "549.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 21104
+  },
+  {
+    "file": "55.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 12514
+  },
+  {
+    "file": "550.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12785
+  },
+  {
+    "file": "551.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 17456
+  },
+  {
+    "file": "552.pdf",
+    "ok": false,
+    "error": "empty_text"
+  },
+  {
+    "file": "553.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11109
+  },
+  {
+    "file": "554.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 20458
+  },
+  {
+    "file": "555.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4138
+  },
+  {
+    "file": "556.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 19386
+  },
+  {
+    "file": "557.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 18433
+  },
+  {
+    "file": "558.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 16174
+  },
+  {
+    "file": "559.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 18667
+  },
+  {
+    "file": "56.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 14211
+  },
+  {
+    "file": "560.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9897
+  },
+  {
+    "file": "561.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10764
+  },
+  {
+    "file": "562.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 15448
+  },
+  {
+    "file": "563.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9849
+  },
+  {
+    "file": "564.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 13966
+  },
+  {
+    "file": "565.pdf",
+    "ok": false,
+    "error": "empty_text"
+  },
+  {
+    "file": "566.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12274
+  },
+  {
+    "file": "567.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10676
+  },
+  {
+    "file": "568.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11489
+  },
+  {
+    "file": "569.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 20017
+  },
+  {
+    "file": "57.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 12883
+  },
+  {
+    "file": "570.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 13849
+  },
+  {
+    "file": "571.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9150
+  },
+  {
+    "file": "572.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11677
+  },
+  {
+    "file": "573.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4851
+  },
+  {
+    "file": "574.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10420
+  },
+  {
+    "file": "575.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5934
+  },
+  {
+    "file": "576.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7810
+  },
+  {
+    "file": "577.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 17868
+  },
+  {
+    "file": "578.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14021
+  },
+  {
+    "file": "579.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 15019
+  },
+  {
+    "file": "58.docx",
+    "ok": true,
+    "accident_type": null,
+    "chars": 9094
+  },
+  {
+    "file": "580.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10951
+  },
+  {
+    "file": "581.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7267
+  },
+  {
+    "file": "582.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5706
+  },
+  {
+    "file": "583.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7227
+  },
+  {
+    "file": "584.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6445
+  },
+  {
+    "file": "585.docx",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6936
+  },
+  {
+    "file": "586.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10871
+  },
+  {
+    "file": "587.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9070
+  },
+  {
+    "file": "588.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12177
+  },
+  {
+    "file": "589.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9913
+  },
+  {
+    "file": "59.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 10370
+  },
+  {
+    "file": "590.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8165
+  },
+  {
+    "file": "591.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 20625
+  },
+  {
+    "file": "592.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12667
+  },
+  {
+    "file": "593.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8127
+  },
+  {
+    "file": "594.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 19575
+  },
+  {
+    "file": "595.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8682
+  },
+  {
+    "file": "596.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9749
+  },
+  {
+    "file": "597.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7054
+  },
+  {
+    "file": "598.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9377
+  },
+  {
+    "file": "599.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12257
+  },
+  {
+    "file": "60.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 8895
+  },
+  {
+    "file": "600.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12783
+  },
+  {
+    "file": "601.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5541
+  },
+  {
+    "file": "602.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 22441
+  },
+  {
+    "file": "603.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11892
+  },
+  {
+    "file": "604.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14076
+  },
+  {
+    "file": "605.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11773
+  },
+  {
+    "file": "606.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8886
+  },
+  {
+    "file": "607.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8501
+  },
+  {
+    "file": "608.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12347
+  },
+  {
+    "file": "609.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9875
+  },
+  {
+    "file": "61.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 15684
+  },
+  {
+    "file": "610.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9663
+  },
+  {
+    "file": "611.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11571
+  },
+  {
+    "file": "612.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7382
+  },
+  {
+    "file": "613.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5510
+  },
+  {
+    "file": "615.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6790
+  },
+  {
+    "file": "616.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8218
+  },
+  {
+    "file": "617.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8353
+  },
+  {
+    "file": "618.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14027
+  },
+  {
+    "file": "619.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6057
+  },
+  {
+    "file": "62.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4585
+  },
+  {
+    "file": "620.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6790
+  },
+  {
+    "file": "621.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8218
+  },
+  {
+    "file": "622.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8353
+  },
+  {
+    "file": "623.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7227
+  },
+  {
+    "file": "624.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11368
+  },
+  {
+    "file": "625.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10333
+  },
+  {
+    "file": "626.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6577
+  },
+  {
+    "file": "627.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11175
+  },
+  {
+    "file": "628.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8190
+  },
+  {
+    "file": "629.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11978
+  },
+  {
+    "file": "63.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7172
+  },
+  {
+    "file": "630.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12139
+  },
+  {
+    "file": "631.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14872
+  },
+  {
+    "file": "632.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 21729
+  },
+  {
+    "file": "633.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 16915
+  },
+  {
+    "file": "634.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12266
+  },
+  {
+    "file": "635.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12090
+  },
+  {
+    "file": "636.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10962
+  },
+  {
+    "file": "637.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5278
+  },
+  {
+    "file": "638.docx",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7714
+  },
+  {
+    "file": "639.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2000000
+  },
+  {
+    "file": "64.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 12892
+  },
+  {
+    "file": "640.docx",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14028
+  },
+  {
+    "file": "641.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11403
+  },
+  {
+    "file": "642.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8756
+  },
+  {
+    "file": "643.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7828
+  },
+  {
+    "file": "644.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 13620
+  },
+  {
+    "file": "645.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10219
+  },
+  {
+    "file": "646.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6070
+  },
+  {
+    "file": "647.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9342
+  },
+  {
+    "file": "648.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10501
+  },
+  {
+    "file": "649.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4663
+  },
+  {
+    "file": "65.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 12618
+  },
+  {
+    "file": "650.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8249
+  },
+  {
+    "file": "651.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6119
+  },
+  {
+    "file": "652.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7478
+  },
+  {
+    "file": "653.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11831
+  },
+  {
+    "file": "654.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5009
+  },
+  {
+    "file": "655.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9464
+  },
+  {
+    "file": "656.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14621
+  },
+  {
+    "file": "657.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9683
+  },
+  {
+    "file": "658.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10621
+  },
+  {
+    "file": "659.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 17324
+  },
+  {
+    "file": "66.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5173
+  },
+  {
+    "file": "660.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 13299
+  },
+  {
+    "file": "661.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 21622
+  },
+  {
+    "file": "662.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 13286
+  },
+  {
+    "file": "663.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9207
+  },
+  {
+    "file": "664.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9678
+  },
+  {
+    "file": "665.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10146
+  },
+  {
+    "file": "666.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6833
+  },
+  {
+    "file": "667.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10407
+  },
+  {
+    "file": "668.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6846
+  },
+  {
+    "file": "669.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7484
+  },
+  {
+    "file": "67.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5214
+  },
+  {
+    "file": "670.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7260
+  },
+  {
+    "file": "671.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7160
+  },
+  {
+    "file": "672.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 17218
+  },
+  {
+    "file": "673.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11790
+  },
+  {
+    "file": "674.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9749
+  },
+  {
+    "file": "675.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10141
+  },
+  {
+    "file": "676.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10570
+  },
+  {
+    "file": "677.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8086
+  },
+  {
+    "file": "678.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12745
+  },
+  {
+    "file": "679.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12739
+  },
+  {
+    "file": "68.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 20922
+  },
+  {
+    "file": "680.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7425
+  },
+  {
+    "file": "681.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5191
+  },
+  {
+    "file": "682.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7775
+  },
+  {
+    "file": "683.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6008
+  },
+  {
+    "file": "684.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7278
+  },
+  {
+    "file": "685.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7467
+  },
+  {
+    "file": "686.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 16745
+  },
+  {
+    "file": "687.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8918
+  },
+  {
+    "file": "688.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8789
+  },
+  {
+    "file": "689.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2000000
+  },
+  {
+    "file": "69.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7167
+  },
+  {
+    "file": "690.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7564
+  },
+  {
+    "file": "691.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9961
+  },
+  {
+    "file": "692.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 13763
+  },
+  {
+    "file": "693.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12057
+  },
+  {
+    "file": "694.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8184
+  },
+  {
+    "file": "695.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10613
+  },
+  {
+    "file": "696.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6590
+  },
+  {
+    "file": "697.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8910
+  },
+  {
+    "file": "698.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6996
+  },
+  {
+    "file": "699.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 15486
+  },
+  {
+    "file": "70.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 8902
+  },
+  {
+    "file": "700.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9166
+  },
+  {
+    "file": "701.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11448
+  },
+  {
+    "file": "702.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5812
+  },
+  {
+    "file": "703.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6996
+  },
+  {
+    "file": "704.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5538
+  },
+  {
+    "file": "705.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10711
+  },
+  {
+    "file": "706.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5435
+  },
+  {
+    "file": "707.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12077
+  },
+  {
+    "file": "708.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14416
+  },
+  {
+    "file": "709.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7455
+  },
+  {
+    "file": "71.pdf",
+    "ok": true,
+    "accident_type": "溢油",
+    "chars": 7716
+  },
+  {
+    "file": "710.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 7444
+  },
+  {
+    "file": "711.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9174
+  },
+  {
+    "file": "712.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5806
+  },
+  {
+    "file": "713.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9144
+  },
+  {
+    "file": "714.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5821
+  },
+  {
+    "file": "715.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2000000
+  },
+  {
+    "file": "716.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5986
+  },
+  {
+    "file": "717.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4953
+  },
+  {
+    "file": "718.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9659
+  },
+  {
+    "file": "719.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 14640
+  },
+  {
+    "file": "72.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5638
+  },
+  {
+    "file": "720.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 13599
+  },
+  {
+    "file": "721.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 3485
+  },
+  {
+    "file": "722.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 16429
+  },
+  {
+    "file": "723.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 15873
+  },
+  {
+    "file": "724.doc",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4066
+  },
+  {
+    "file": "725.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 17699
+  },
+  {
+    "file": "726.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 12724
+  },
+  {
+    "file": "727.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 26645
+  },
+  {
+    "file": "728.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 16988
+  },
+  {
+    "file": "73.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6728
+  },
+  {
+    "file": "730.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6246
+  },
+  {
+    "file": "731.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6122
+  },
+  {
+    "file": "732.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9776
+  },
+  {
+    "file": "733.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9616
+  },
+  {
+    "file": "734.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 15288
+  },
+  {
+    "file": "735.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 17996
+  },
+  {
+    "file": "736.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 10604
+  },
+  {
+    "file": "737.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 8058
+  },
+  {
+    "file": "738.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4495
+  },
+  {
+    "file": "739.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 11448
+  },
+  {
+    "file": "74.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7060
+  },
+  {
+    "file": "740.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 19958
+  },
+  {
+    "file": "741.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2000000
+  },
+  {
+    "file": "742.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 9514
+  },
+  {
+    "file": "743.pdf",
+    "ok": false,
+    "error": "empty_text"
+  },
+  {
+    "file": "744.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 15022
+  },
+  {
+    "file": "745.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 12222
+  },
+  {
+    "file": "746.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 6525
+  },
+  {
+    "file": "747.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 5058
+  },
+  {
+    "file": "748.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 4301
+  },
+  {
+    "file": "749.doc",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 3487
+  },
+  {
+    "file": "75.pdf",
+    "ok": true,
+    "accident_type": "走锚",
+    "chars": 3857
+  },
+  {
+    "file": "750.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 3755
+  },
+  {
+    "file": "751.doc",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 4126
+  },
+  {
+    "file": "752.doc",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 8293
+  },
+  {
+    "file": "753.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 3618
+  },
+  {
+    "file": "754.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 3696
+  },
+  {
+    "file": "755.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7959
+  },
+  {
+    "file": "756.doc",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 7177
+  },
+  {
+    "file": "757.doc",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 9034
+  },
+  {
+    "file": "758.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5127
+  },
+  {
+    "file": "759.pdf",
+    "ok": true,
+    "accident_type": "倾覆",
+    "chars": 15528
+  },
+  {
+    "file": "76.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 6330
+  },
+  {
+    "file": "760.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 13877
+  },
+  {
+    "file": "761.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 8709
+  },
+  {
+    "file": "762.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 3705
+  },
+  {
+    "file": "763.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 5531
+  },
+  {
+    "file": "764.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 2831
+  },
+  {
+    "file": "765.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 5852
+  },
+  {
+    "file": "766.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 3452
+  },
+  {
+    "file": "767.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 6271
+  },
+  {
+    "file": "768.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4583
+  },
+  {
+    "file": "769.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 6975
+  },
+  {
+    "file": "77.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 12134
+  },
+  {
+    "file": "770.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2983
+  },
+  {
+    "file": "771.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 5516
+  },
+  {
+    "file": "772.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 6930
+  },
+  {
+    "file": "773.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 9899
+  },
+  {
+    "file": "774.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 7973
+  },
+  {
+    "file": "775.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 6249
+  },
+  {
+    "file": "776.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 7021
+  },
+  {
+    "file": "777.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 4947
+  },
+  {
+    "file": "778.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 8279
+  },
+  {
+    "file": "779.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 13143
+  },
+  {
+    "file": "78.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 3564
+  },
+  {
+    "file": "780.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 8873
+  },
+  {
+    "file": "781.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 7610
+  },
+  {
+    "file": "782.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 9949
+  },
+  {
+    "file": "783.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 12054
+  },
+  {
+    "file": "784.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 26960
+  },
+  {
+    "file": "785.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 20244
+  },
+  {
+    "file": "786.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 11958
+  },
+  {
+    "file": "787.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 12862
+  },
+  {
+    "file": "788.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 14261
+  },
+  {
+    "file": "789.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 7913
+  },
+  {
+    "file": "79.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 8851
+  },
+  {
+    "file": "790.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 14920
+  },
+  {
+    "file": "791.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 25242
+  },
+  {
+    "file": "792.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 9663
+  },
+  {
+    "file": "793.docx",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 9299
+  },
+  {
+    "file": "794.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 10904
+  },
+  {
+    "file": "795.doc",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 5470
+  },
+  {
+    "file": "796.doc",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 5129
+  },
+  {
+    "file": "797.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 15720
+  },
+  {
+    "file": "798.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 13871
+  },
+  {
+    "file": "799.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 24633
+  },
+  {
+    "file": "8.pdf",
+    "ok": true,
+    "accident_type": "火灾",
+    "chars": 7328
+  },
+  {
+    "file": "80.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 5801
+  },
+  {
+    "file": "800.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 18571
+  },
+  {
+    "file": "801.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 10819
+  },
+  {
+    "file": "802.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 16164
+  },
+  {
+    "file": "803.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 8343
+  },
+  {
+    "file": "804.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 6893
+  },
+  {
+    "file": "805.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6861
+  },
+  {
+    "file": "806.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 10913
+  },
+  {
+    "file": "807.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 5848
+  },
+  {
+    "file": "808.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 4746
+  },
+  {
+    "file": "809.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 9226
+  },
+  {
+    "file": "81.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 12764
+  },
+  {
+    "file": "810.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 7607
+  },
+  {
+    "file": "811.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 9926
+  },
+  {
+    "file": "812.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6126
+  },
+  {
+    "file": "813.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 8360
+  },
+  {
+    "file": "814.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 2891
+  },
+  {
+    "file": "815.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 10362
+  },
+  {
+    "file": "816.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 5058
+  },
+  {
+    "file": "817.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 4301
+  },
+  {
+    "file": "818.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 14051
+  },
+  {
+    "file": "819.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 6649
+  },
+  {
+    "file": "82.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7455
+  },
+  {
+    "file": "820.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 2767
+  },
+  {
+    "file": "821.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 8037
+  },
+  {
+    "file": "822.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 3451
+  },
+  {
+    "file": "823.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 4440
+  },
+  {
+    "file": "824.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4111
+  },
+  {
+    "file": "825.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 12411
+  },
+  {
+    "file": "826.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 20325
+  },
+  {
+    "file": "827.doc",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 8713
+  },
+  {
+    "file": "828.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 4248
+  },
+  {
+    "file": "829.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 4189
+  },
+  {
+    "file": "83.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4541
+  },
+  {
+    "file": "830.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 5521
+  },
+  {
+    "file": "831.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 4723
+  },
+  {
+    "file": "832.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 3489
+  },
+  {
+    "file": "833.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 3930
+  },
+  {
+    "file": "834.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 19742
+  },
+  {
+    "file": "835.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 8830
+  },
+  {
+    "file": "836.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5391
+  },
+  {
+    "file": "837.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 19211
+  },
+  {
+    "file": "838.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 7531
+  },
+  {
+    "file": "839.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4188
+  },
+  {
+    "file": "84.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 6427
+  },
+  {
+    "file": "840.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2000000
+  },
+  {
+    "file": "841.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7622
+  },
+  {
+    "file": "842.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 8014
+  },
+  {
+    "file": "843.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 9673
+  },
+  {
+    "file": "844.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 9445
+  },
+  {
+    "file": "845.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4744
+  },
+  {
+    "file": "846.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 8755
+  },
+  {
+    "file": "847.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 10613
+  },
+  {
+    "file": "848.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 5231
+  },
+  {
+    "file": "849.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 7071
+  },
+  {
+    "file": "85.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 4835
+  },
+  {
+    "file": "850.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 13180
+  },
+  {
+    "file": "851.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 8912
+  },
+  {
+    "file": "852.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 14103
+  },
+  {
+    "file": "853.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6987
+  },
+  {
+    "file": "854.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 9767
+  },
+  {
+    "file": "855.pdf",
+    "ok": true,
+    "accident_type": "触礁",
+    "chars": 8717
+  },
+  {
+    "file": "856.doc",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 2972
+  },
+  {
+    "file": "857.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 1730
+  },
+  {
+    "file": "858.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 5735
+  },
+  {
+    "file": "859.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 4831
+  },
+  {
+    "file": "86.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 8881
+  },
+  {
+    "file": "860.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 3343
+  },
+  {
+    "file": "861.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 12318
+  },
+  {
+    "file": "862.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 20074
+  },
+  {
+    "file": "863.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 2000000
+  },
+  {
+    "file": "864.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 8121
+  },
+  {
+    "file": "865.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7135
+  },
+  {
+    "file": "866.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 6189
+  },
+  {
+    "file": "867.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 7479
+  },
+  {
+    "file": "868.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 8020
+  },
+  {
+    "file": "869.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 12962
+  },
+  {
+    "file": "87.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7257
+  },
+  {
+    "file": "870.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 9000
+  },
+  {
+    "file": "871.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 10318
+  },
+  {
+    "file": "872.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 4563
+  },
+  {
+    "file": "873.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 9489
+  },
+  {
+    "file": "874.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 15122
+  },
+  {
+    "file": "875.doc",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 5653
+  },
+  {
+    "file": "876.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 5810
+  },
+  {
+    "file": "877.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 5202
+  },
+  {
+    "file": "878.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 9095
+  },
+  {
+    "file": "879.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 7945
+  },
+  {
+    "file": "88.docx",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6728
+  },
+  {
+    "file": "880.doc",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 3668
+  },
+  {
+    "file": "881.doc",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 3668
+  },
+  {
+    "file": "882.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7508
+  },
+  {
+    "file": "883.doc",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 3497
+  },
+  {
+    "file": "884.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 16695
+  },
+  {
+    "file": "885.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 6100
+  },
+  {
+    "file": "886.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 4865
+  },
+  {
+    "file": "887.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 11638
+  },
+  {
+    "file": "888.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 9355
+  },
+  {
+    "file": "889.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5708
+  },
+  {
+    "file": "89.pdf",
+    "ok": true,
+    "accident_type": "失踪",
+    "chars": 5421
+  },
+  {
+    "file": "890.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 12852
+  },
+  {
+    "file": "891.doc",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 7141
+  },
+  {
+    "file": "892.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 12083
+  },
+  {
+    "file": "90.pdf",
+    "ok": true,
+    "accident_type": "沉没",
+    "chars": 4626
+  },
+  {
+    "file": "91.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 5002
+  },
+  {
+    "file": "92.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 17764
+  },
+  {
+    "file": "93.pdf",
+    "ok": true,
+    "accident_type": null,
+    "chars": 9550
+  },
+  {
+    "file": "94.doc",
+    "ok": true,
+    "accident_type": null,
+    "chars": 7884
+  },
+  {
+    "file": "95.docx",
+    "ok": true,
+    "accident_type": "搁浅",
+    "chars": 5220
+  },
+  {
+    "file": "96.pdf",
+    "ok": true,
+    "accident_type": "搁浅",
+    "chars": 16880
+  },
+  {
+    "file": "97.pdf",
+    "ok": true,
+    "accident_type": "搁浅",
+    "chars": 18371
+  },
+  {
+    "file": "98.pdf",
+    "ok": true,
+    "accident_type": "搁浅",
+    "chars": 4462
+  },
+  {
+    "file": "99.pdf",
+    "ok": true,
+    "accident_type": "碰撞",
+    "chars": 4141
+  }
+]
