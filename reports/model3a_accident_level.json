@@ -1,0 +1,123 @@
+{
+  "target_mapping": {
+    "0": "一般",
+    "1": "较大",
+    "2": "重大"
+  },
+  "n_train": 592,
+  "n_test": 254,
+  "n_features": 77,
+  "models": {
+    "gradient_boosting": {
+      "best_params": {
+        "clf__max_depth": 3,
+        "clf__n_estimators": 100
+      },
+      "best_cv_score": 0.7905569007263923,
+      "accuracy": 0.7480314960629921,
+      "macro_f1": 0.40885625278148646,
+      "weighted_f1": 0.7104590898100354,
+      "confusion_matrix": [
+        [
+          183,
+          15,
+          2
+        ],
+        [
+          41,
+          6,
+          1
+        ],
+        [
+          4,
+          1,
+          1
+        ]
+      ],
+      "classification_report": "              precision    recall  f1-score   support\n\n          一般       0.80      0.92      0.86       200\n          较大       0.27      0.12      0.17        48\n          重大       0.25      0.17      0.20         6\n\n    accuracy                           0.75       254\n   macro avg       0.44      0.40      0.41       254\nweighted avg       0.69      0.75      0.71       254\n"
+    },
+    "random_forest": {
+      "best_params": {
+        "clf__max_depth": 10,
+        "clf__n_estimators": 200
+      },
+      "best_cv_score": 0.8074918102834353,
+      "accuracy": 0.7952755905511811,
+      "macro_f1": 0.3332072670224538,
+      "weighted_f1": 0.7193575316679566,
+      "confusion_matrix": [
+        [
+          199,
+          1,
+          0
+        ],
+        [
+          45,
+          3,
+          0
+        ],
+        [
+          5,
+          1,
+          0
+        ]
+      ],
+      "classification_report": "              precision    recall  f1-score   support\n\n          一般       0.80      0.99      0.89       200\n          较大       0.60      0.06      0.11        48\n          重大       0.00      0.00      0.00         6\n\n    accuracy                           0.80       254\n   macro avg       0.47      0.35      0.33       254\nweighted avg       0.74      0.80      0.72       254\n"
+    },
+    "svm": {
+      "best_params": {
+        "clf__C": 1,
+        "clf__kernel": "rbf"
+      },
+      "best_cv_score": 0.8024070645207235,
+      "accuracy": 0.7952755905511811,
+      "macro_f1": 0.3216519174041298,
+      "weighted_f1": 0.7119336631593617,
+      "confusion_matrix": [
+        [
+          200,
+          0,
+          0
+        ],
+        [
+          46,
+          2,
+          0
+        ],
+        [
+          6,
+          0,
+          0
+        ]
+      ],
+      "classification_report": "              precision    recall  f1-score   support\n\n          一般       0.79      1.00      0.88       200\n          较大       1.00      0.04      0.08        48\n          重大       0.00      0.00      0.00         6\n\n    accuracy                           0.80       254\n   macro avg       0.60      0.35      0.32       254\nweighted avg       0.81      0.80      0.71       254\n"
+    },
+    "knn": {
+      "best_params": {
+        "clf__n_neighbors": 5
+      },
+      "best_cv_score": 0.7786782509614015,
+      "accuracy": 0.7559055118110236,
+      "macro_f1": 0.35899564666687955,
+      "weighted_f1": 0.7168595256180199,
+      "confusion_matrix": [
+        [
+          184,
+          16,
+          0
+        ],
+        [
+          40,
+          8,
+          0
+        ],
+        [
+          5,
+          1,
+          0
+        ]
+      ],
+      "classification_report": "              precision    recall  f1-score   support\n\n          一般       0.80      0.92      0.86       200\n          较大       0.32      0.17      0.22        48\n          重大       0.00      0.00      0.00         6\n\n    accuracy                           0.76       254\n   macro avg       0.37      0.36      0.36       254\nweighted avg       0.69      0.76      0.72       254\n"
+    }
+  }
+}

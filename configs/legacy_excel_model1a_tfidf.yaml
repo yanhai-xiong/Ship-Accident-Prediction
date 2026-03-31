@@ -1,0 +1,32 @@
+target_column: accident type
+
+drop_always:
+  - fatality
+  - 损伤位置
+  - 损伤种类
+
+drop_for_target:
+  - accident level
+
+mode: tabular_tfidf
+
+text_columns:
+  - Cause of Accident
+  - 事发水域路况
+
+tfidf_max_features: 1000
+
+test_size: 0.3
+random_state: 42
+stratify: true
+drop_na: true
+
+grid_search_cv: 5
+scoring: accuracy
+n_jobs: 1
+
+model_names:
+  - gradient_boosting
+  - random_forest
+  - svm
+  - knn
