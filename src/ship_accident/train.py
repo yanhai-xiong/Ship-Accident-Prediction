@@ -11,7 +11,13 @@ from ship_accident.data import extract_target, prepare_raw_frame, read_table
 from ship_accident.features_tabular import encode_tabular_train_test, tabular_to_float_dense
 from ship_accident.features_text import build_text_blocks_train_test
 from ship_accident.metrics import compute_metrics
-from ship_accident.models import get_model_grid, make_pipeline
+from ship_accident.models import (
+    get_model_grid,
+    make_pipeline,
+    make_pipeline_with_selection,
+    make_selector,
+    merge_param_grid_with_feature_selection,
+)
 
 
 def run_training(
@@ -64,10 +70,18 @@ def run_training(
     cv = int(cfg.get("grid_search_cv", 5))
     scoring = cfg.get("scoring", "accuracy")
     results: dict[str, Any] = {}
+    fs_cfg = cfg.get("feature_selection") or {}
+    fs_enabled = bool(fs_cfg.get("enabled"))
+    rs = int(cfg.get("random_state", 42))
 
     for name in cfg.get("model_names", []):
-        est, param_grid = get_model_grid(name)
-        pipe = make_pipeline(est)
+        est, param_grid = get_model_grid(name, cfg)
+        if fs_enabled:
+            selector = make_selector(fs_cfg, random_state=rs)
+            pipe = make_pipeline_with_selection(est, selector)
+            param_grid = merge_param_grid_with_feature_selection(param_grid, fs_cfg)
+        else:
+            pipe = make_pipeline(est)
         n_jobs = int(cfg.get("n_jobs", 1))
         grid = GridSearchCV(
             pipe,
@@ -85,16 +99,24 @@ def run_training(
             labels=labels_in_test,
             target_names=target_names,
         )
-        results[name] = {
+        n_sel: int | None = None
+        est_fit = grid.best_estimator_
+        if fs_enabled and hasattr(est_fit, "named_steps") and "select" in est_fit.named_steps:
+            n_sel = int(est_fit.named_steps["select"].get_support().sum())
+        row: dict[str, Any] = {
             "best_params": grid.best_params_,
             "best_cv_score": float(grid.best_score_),
             **metrics,
         }
+        if n_sel is not None:
+            row["n_features_after_selection"] = n_sel
+        results[name] = row
 
     return {
         "target_mapping": {str(k): v for k, v in target_mapping.items()},
         "n_train": int(Xtr.shape[0]),
         "n_test": int(Xte.shape[0]),
         "n_features": int(Xtr.shape[1]),
+        "feature_selection_enabled": fs_enabled,
         "models": results,
     }

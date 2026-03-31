@@ -1,0 +1,43 @@
+# Predict regulatory accident tier (accident severity) using full text + tabular + post-outcome fields.
+# Build CSV with scripts/build_report_dataset.py (includes engineer_post_accident_features).
+target_column: accident severity
+
+drop_always:
+  - path
+  - file_id
+  - title_type_raw
+  - severity_match_raw
+  - severity_label_source
+  # Outcome fields quantify the label but must not be inputs to the severity predictor:
+  - num_direct_loss_wan
+  - num_deaths_reported
+  - num_missing_reported
+  - flag_injury_mentioned
+  - post_outcome_keyword_hits
+
+drop_for_target: []
+
+mode: tabular_tfidf
+
+text_columns:
+  - full_text
+
+tfidf_max_features: 800
+
+test_size: 0.3
+random_state: 42
+stratify: true
+drop_na: true
+# Drop very rare tiers so stratified CV/split remain valid (e.g. 特别重大 may still be rare).
+min_class_counts: 5
+
+grid_search_cv: 5
+scoring: accuracy
+n_jobs: -1
+
+feature_selection:
+  enabled: false
+
+model_names:
+  - random_forest
+  - gradient_boosting

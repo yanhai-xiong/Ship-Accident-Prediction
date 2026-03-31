@@ -1,0 +1,88 @@
+{
+  "target_mapping": {
+    "0": "一般",
+    "1": "较大",
+    "2": "小事故",
+    "3": "重大"
+  },
+  "n_train": 463,
+  "n_test": 199,
+  "n_features": 833,
+  "feature_selection_enabled": false,
+  "models": {
+    "random_forest": {
+      "best_params": {
+        "clf__max_depth": null,
+        "clf__n_estimators": 200
+      },
+      "best_cv_score": 0.8121785881252922,
+      "accuracy": 0.7889447236180904,
+      "macro_f1": 0.372147078881564,
+      "weighted_f1": 0.733118536533543,
+      "confusion_matrix": [
+        [
+          145,
+          0,
+          0,
+          0
+        ],
+        [
+          31,
+          11,
+          0,
+          0
+        ],
+        [
+          8,
+          0,
+          1,
+          0
+        ],
+        [
+          3,
+          0,
+          0,
+          0
+        ]
+      ],
+      "classification_report": "              precision    recall  f1-score   support\n\n          一般       0.78      1.00      0.87       145\n          较大       1.00      0.26      0.42        42\n         小事故       1.00      0.11      0.20         9\n          重大       0.00      0.00      0.00         3\n\n    accuracy                           0.79       199\n   macro avg       0.69      0.34      0.37       199\nweighted avg       0.82      0.79      0.73       199\n"
+    },
+    "gradient_boosting": {
+      "best_params": {
+        "clf__max_depth": 3,
+        "clf__n_estimators": 200
+      },
+      "best_cv_score": 0.8402290790088827,
+      "accuracy": 0.8140703517587939,
+      "macro_f1": 0.41376822294412974,
+      "weighted_f1": 0.7886399538703531,
+      "confusion_matrix": [
+        [
+          140,
+          2,
+          3,
+          0
+        ],
+        [
+          20,
+          21,
+          1,
+          0
+        ],
+        [
+          7,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          0,
+          0
+        ]
+      ],
+      "classification_report": "              precision    recall  f1-score   support\n\n          一般       0.83      0.97      0.89       145\n          较大       0.81      0.50      0.62        42\n         小事故       0.20      0.11      0.14         9\n          重大       0.00      0.00      0.00         3\n\n    accuracy                           0.81       199\n   macro avg       0.46      0.39      0.41       199\nweighted avg       0.79      0.81      0.79       199\n"
+    }
+  }
+}

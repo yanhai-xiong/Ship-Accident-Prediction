@@ -1,0 +1,42 @@
+# Best single-model settings observed while tuning (HistGradientBoosting + more TF-IDF dims).
+target_column: accident type
+
+drop_always:
+  - path
+  - title_type_raw
+  - file_id
+  - accident severity
+  - severity_label_source
+  - severity_match_raw
+  - num_direct_loss_wan
+  - num_deaths_reported
+  - num_missing_reported
+  - flag_injury_mentioned
+  - post_outcome_keyword_hits
+
+drop_for_target: []
+
+mode: tabular_tfidf
+
+text_columns:
+  - full_text
+
+tfidf_max_features: 4000
+
+test_size: 0.25
+random_state: 42
+stratify: true
+drop_na: true
+min_class_counts: 5
+
+grid_search_cv: 5
+scoring: accuracy
+n_jobs: -1
+
+class_weight: balanced
+
+feature_selection:
+  enabled: false
+
+model_names:
+  - hist_gradient_boosting
